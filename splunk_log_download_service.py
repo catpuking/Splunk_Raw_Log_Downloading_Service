@@ -30,7 +30,7 @@ logging.basicConfig(
     )
 
 # Global Splunk Access
-hostname ="logsearch.central1.com"
+hostname ="logsearch.splunkserver.com"
 username ="Sample_User"
 password ="Sample_pass"
 
